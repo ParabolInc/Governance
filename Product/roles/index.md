@@ -1,0 +1,1 @@
+[Bug Squasher](./BUG_SQUASHER.md)
