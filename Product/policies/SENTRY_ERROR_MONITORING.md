@@ -4,7 +4,7 @@ The quicker we discover bugs, the quicker they'll be resolved. Without a process
 
 We use Sentry to track issues but GitHub is where our Sprint work lives. 
 
-Not all bugs require immediate attention. We need a process that makes the team aware of the important ones without inundating everyone with low-priory issues.
+Not all bugs require immediate attention. We need a process that makes the team aware of the important ones without inundating everyone with low-priory issues and other stuff.
 
 ## Proposal
 
