@@ -1,21 +1,45 @@
-Purpose: Reduce idle time spent in meeting
+Purpose: to set up our development sprints to focus on the most important work
 ---
-Tension: As the product team grows, the cost of a 1 hour planning meeting grows. Every meeting should be worth the time invested.
 
-I propose replacing the current 1 hour meeting with a 30-minute pre-work meeting & a 30-minute planning meeting.
+Sprint planning happens before a sprint officially begins. It is divided into two 30-minute meetings:
 
-The pre-work meeting can be any time before the planning meeting.
+   1. A "pre-work" meeting with limited attendence
+   2. A "planning meeting" the whole Product team may attend
 
-The PM is the only mandatory attendee. A member of the product team and/or one stakeholder who could accelerate the planning process is allowed. 
+
+## Pre-work meeting
+
+### Attendees
+
+- All L4 and above Product team members
+
+### Agenda
 
 The agenda for the pre-work meeting is to:
 
-- Prioritize the backlog
-- Create issues that currently don't exist
-- Tentatively assigning items to team members
+- Complete any late-breaking prioritization of Inbox issues to the Backlog
+- Re-prioritize the Backlog according to the current strategy
+- Draft the sprint by moving over the top Backlog items to the Inbox, taking care to:
+   - Include any `p1` bugs
+   - Add the most important issues from active epics
+   - Create any issues to fill gaps in our development plan
+   - Find and prioritize any low-effort bugs related to areas of active development
+   - Aim to hit about 80% of our team's capacity to complete the items within the sprint
 
-The planning meeting is reserved for the following:
+## Planning meeting
 
-- Seeking consent for general direction
-- Seeking consent for the tasks assigned to developers
-- Adjusting the acceptance criteria to make sure the assignee is clear on what is to be delivered
+### Attendees
+
+- All Product team members
+
+### Agenda
+
+The planning meeting is to:
+
+- Seek consent for prioritized items:
+   - Answer clarifying questions on sprint goals
+   - Hear reactions on sprint goals
+   - Make amendments (i.e. changing the items included in the sprint)
+   - Ask for objections
+- Answer clarifying questions on acceptance criteria for specific issues
+- Adjust the acceptance criteria for specific issues
